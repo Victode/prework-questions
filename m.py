@@ -1,2 +1,0 @@
-USERNAME = "hello_USERNAME!"
-print(USERNAME)
